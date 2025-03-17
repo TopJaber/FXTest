@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="jlink" build-on-make="true" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <properties id="jlink-properties">
+      <options>
+        <option name="compressionLevel" value="2" />
+        <option name="verbose" value="true" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="module-output" name="FXTest" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:21" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:21" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:21" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:21" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:21" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:21" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:21" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:21" />
+      <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-core:2.3.0.1" />
+      <element id="library" level="project" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:3.0.1" />
+      <element id="library" level="project" name="Maven: com.sun.activation:jakarta.activation:2.0.1" />
+      <element id="library" level="project" name="Maven: org.glassfish.jaxb:jaxb-runtime:3.0.1" />
+      <element id="library" level="project" name="Maven: org.glassfish.jaxb:jaxb-core:3.0.1" />
+      <element id="library" level="project" name="Maven: org.glassfish.jaxb:txw2:3.0.1" />
+      <element id="library" level="project" name="Maven: com.sun.istack:istack-commons-runtime:4.0.1" />
+      <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-impl:2.3.1" />
+      <element id="library" level="project" name="Maven: org.javassist:javassist:3.25.0-GA" />
+      <element id="module-source" name="FXTest" />
+      <element id="dir-copy" path="$PROJECT_DIR$/target/app/bin" />
+    </root>
+  </artifact>
+</component>
